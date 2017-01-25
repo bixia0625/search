@@ -1,2 +1,2 @@
 # search
-Practice with RxAndroid
+This project created for practicing with RxAndroid
